@@ -1,0 +1,7 @@
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\bin\Debug\BNF Demo.exe.config
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\bin\Debug\BNF Demo.exe
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\bin\Debug\BNF Demo.pdb
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\obj\Debug\BNF Demo.csprojAssemblyReference.cache
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\obj\Debug\BNF Demo.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\obj\Debug\BNF Demo.exe
+C:\Users\Server\source\repos\BNF Demo\BNF Demo\obj\Debug\BNF Demo.pdb

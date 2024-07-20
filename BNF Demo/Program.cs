@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BNF_Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            shit fuck = new shit();
+
+            string userinput = Console.ReadLine();
+            fuck.bnf(userinput);
+
+            Console.ReadLine();
+        }
+    }
+}
