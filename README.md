@@ -1,4 +1,4 @@
-# Bayocot-CSharpOldProject-BNFDemo
+# BNFDemo
 
 This is a very old project from my undergrad years. (2016-2020)
 
